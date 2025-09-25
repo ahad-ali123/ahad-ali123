@@ -26,12 +26,11 @@
 
 ---
 
-## 📌 Featured Projects
-- 🌐 **Portfolio Website** – Personal portfolio built with HTML, CSS & Bootstrap  
-- ✅ **Todo App** – Simple and clean todo list with JavaScript  
-- ☁️ **Weather App** – Weather forecast app using OpenWeather API  
-- 📝 **Typing Speed Game** – Fun game to test typing speed  
-- 🔧 **WordPress Websites** – Custom themes, plugins, and SEO-optimized sites  
+## 🌟 Featured Projects
+
+- 🍝 [Gusto Italiano](https://gusto-italiano-tau.vercel.app)  
+- ✈️ [Travel Agency Landing Page](https://travel-agency-project-kohl.vercel.app)  
+- ✍️ [Simple Blog](https://simple-blog-seven-bay.vercel.app)  
 
 ---
 
